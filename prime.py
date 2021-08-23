@@ -18,6 +18,6 @@ if num > 1:
 
 # check if flag is True
 if flag:
-    print(num,"is a composite number")
+    print(num,"is a composit number")
 else:
     print(num, "is a prime number")
